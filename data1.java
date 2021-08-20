@@ -1,0 +1,3 @@
+returnType methodName() {
+  // method body
+}
